@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vadymshatniy
-- 🌱 I’m currently studying at GoIT.ua
+- 🌱 I’m currently studying at GoIT.ua and EPAM Univercity
 - 📫 You can reach me at vadymshatniy@gmail.com
 
 <!---
